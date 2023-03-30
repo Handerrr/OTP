@@ -1,1 +1,1 @@
-# OTP
+É Um codigo de verificação de 2 fatores que você recebe um codigo no seu e-mail ou SMS, com um limite de tempo pra você colocar o código pra você poder logar no seu e-mail ou aplicativo, tornando sua conta mais segura
